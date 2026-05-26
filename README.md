@@ -289,7 +289,7 @@ Designed and implemented an automated battery handling system for a multi-drone 
 **🎓 VLSI Chip Design with CPS**  
 *for Industrial Applications*  
 Coursera · Mar 2025  
-[View Certificate](https://coursera.org/share/4a24f13b3c5af5d90e60dce7ee4ae0385)
+[View Certificate](https://coursera.org/share/4a24f13b3c5af5d90e60dce7ee4ae038)
 
 </td>
 <td align="center" width="33%">
@@ -403,5 +403,5 @@ Drone-based disaster response system with AI-driven image analysis & autonomous 
 ---
 
 <div align="center">
-<sub>⚡ Designed with precision — like a well-timed RTL pipeline | Last updated: 2026</sub>
+<sub>⚡ Designed with precision — like a well-timed RTL pipeline | Last updated: 2025</sub>
 </div>
