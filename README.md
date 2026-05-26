@@ -212,15 +212,7 @@ A robust deep learning solution for automated plant disease identification from 
 
 ## 📊 GitHub Analytics
 
-<br/>
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaheedharBhamidipati&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheedharBhamidipati&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
-
-<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaheedharBhamidipati&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FBE&fire=FF6B35&currStreakNum=FFFFFF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak Stats"/>
 
