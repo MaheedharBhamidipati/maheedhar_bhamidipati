@@ -48,7 +48,7 @@ endmodule
 
 I'm a **VLSI Design Engineer** passionate about the intersection of **Artificial Intelligence** and **Semiconductor Design**. My work spans the full FPGA/ASIC design workflow — from RTL coding and UVM-based verification to synthesis optimization and FPGA deployment. I'm currently pioneering **AIDEA**, an AI-powered platform for RTL analysis and ASIC/FPGA automation that brings the power of LLMs into the EDA domain.
 
-With peer-reviewed publications on **IEEE Xplore** and **Springer**, hands-on experience with industry-grade EDA toolchains (Vivado, ModelSim, Cadence Genus, Synopsys), and a deep interest in **hardware-aware AI**, I'm building the future of intelligent semiconductor design — one clock cycle at a time.
+With peer-reviewed publications on **Elsevier**, **IEEE Xplore**, and **Springer**, hands-on experience with industry-grade EDA toolchains (Vivado, ModelSim, Cadence Genus, Synopsys), and a deep interest in **hardware-aware AI**, I'm building the future of intelligent semiconductor design — one clock cycle at a time.
 
 <br/>
 
@@ -60,7 +60,7 @@ With peer-reviewed publications on **IEEE Xplore** and **Springer**, hands-on ex
 **🤖 Exploring** AI-assisted RTL workflows & formal verification automation  
 **⚡ Working on** FPGA-based ML accelerators with lightweight CNN inference  
 **🧠 Interested in** Next-gen semiconductor innovation & hardware-aware AI  
-**📚 Published in** IEEE Xplore (×2) & Springer — AI + VLSI research  
+**📚 Published in** Elsevier, IEEE Xplore (×2) & Springer — AI + VLSI research  
 **🎯 Targeting** RTL Design · ASIC Verification · FPGA · AI Hardware · EDA roles  
 
 </td>
