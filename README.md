@@ -266,7 +266,7 @@ Designed and implemented an automated battery handling system for a multi-drone 
 | 1 | Efficient FPGA-based implementation of ML models for high-speed lightweight binary image classification | **Elsevier** | [View](https://www.sciencedirect.com/science/article/abs/pii/S0263224126014119) |
 | 2 | Accelerating Lightweight Binary Image Classification on FPGA Using Machine Learning Models | **IEEE Xplore** | [View](https://ieeexplore.ieee.org/document/11233695) |
 | 3 | Ripeness Revolution: Harnessing CNN Models for Precise Fruit Classification | **IEEE Xplore** | [View](https://ieeexplore.ieee.org/document/11070765) |
-| 4 | Determining the Fruit Ripening Stage Using Convolution Neural Networks | **Springer** | [View](https://link.springer.com/chapter/10.1007/978-981-99-4577-113) |
+| 4 | Determining the Fruit Ripening Stage Using Convolution Neural Networks | **Springer** | [View](https://link.springer.com/chapter/10.1007/978-981-99-4577-1_13) |
 
 </div>
 
