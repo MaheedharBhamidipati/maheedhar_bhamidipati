@@ -160,7 +160,7 @@ With **4 peer-reviewed publications** on **Elsevier**, **IEEE Xplore (×2)**, an
 An intelligent EDA platform integrating **Yosys**, **PyVerilog**, **Graphviz**, and **local LLMs** for RTL analysis, logic visualization, and FPGA/ASIC estimation — currently functional for combinational and sequential Verilog designs. AIDEA bridges traditional EDA workflows with modern AI capabilities, enabling engineers to get instant RTL insights, timing feedback, and design recommendations through a conversational interface.
 
 **Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Yosys](https://img.shields.io/badge/-Yosys-37474F?style=flat-square) ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-00D9FF?style=flat-square) ![ModelSim](https://img.shields.io/badge/-ModelSim-00897B?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask) ![Yosys](https://img.shields.io/badge/-Yosys-37474F?style=flat-square) ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-00D9FF?style=flat-square) ![ModelSim](https://img.shields.io/badge/-ModelSim-00897B?style=flat-square) ![Graphviz](https://img.shields.io/badge/-Graphviz-2596BE?style=flat-square&logo=graphviz&logoColor=white) ![GTKWave](https://img.shields.io/badge/-GTKWave-6A1B9A?style=flat-square&logoColor=white) ![Icarus Verilog](https://img.shields.io/badge/-Icarus%20Verilog-BF360C?style=flat-square&logoColor=white) ![OSS CAD Suite](https://img.shields.io/badge/-OSS%20CAD%20Suite-1B5E20?style=flat-square&logoColor=white)
 
 **🎯 Impact:** AI-assisted RTL analysis · Reduces debug cycle time through LLM-driven automation
 
@@ -204,7 +204,7 @@ Designed and synthesised **mux-based ripple carry adder** architectures in Veril
 Comparative study of **EfficientNetB0** vs. **ResNet50** transfer learning models for multi-class fruit ripeness classification. Top model achieved **78.67% test accuracy** — a **13.35% improvement** over baseline on the same dataset. Deployed via a **Flask web application** for real-time inference in agricultural automation pipelines.
 
 **Tech Stack:**  
-![EfficientNet](https://img.shields.io/badge/-EfficientNetB0-4CAF50?style=flat-square&logo=google&logoColor=white) ![ResNet50](https://img.shields.io/badge/-ResNet50-FF9800?style=flat-square&logo=nvidia&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![EfficientNet](https://img.shields.io/badge/-EfficientNetB0-4CAF50?style=flat-square&logo=google&logoColor=white) ![ResNet50](https://img.shields.io/badge/-ResNet50-FF9800?style=flat-square&logo=nvidia&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
 **🎯 Impact:** Published in **IEEE Xplore** & **Springer** · 13.35% accuracy gain over baseline
 
